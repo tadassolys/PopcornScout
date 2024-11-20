@@ -17,11 +17,9 @@ public class User {
     private String password;
     private String role;
 
-    // Default constructor
     public User() {
     }
 
-    // Getters and setters
     public Long getId() {
         return id;
     }
